@@ -1,4 +1,7 @@
 # Setting up a Local new site on your Laragon Server
+I needed to replace my XAMPP set up on my PC and few months ago 
+I signed up for Laragon (https://laragon.org/) and did.
+Nothing the docs tells you this, but
 I found out that laragon can serve a web sites on your PC from any folder on any drive
 on your pc and you can name it with any name and any TLD you want. 
 All you need to do is this:
